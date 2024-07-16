@@ -71,6 +71,7 @@ def usage():
     -u    --update      Check for update
     -v    --version     Check the current version
     -i    --info        Check the current ip address and Tor status
+    -c                  Start Tor with specific countries as exit nodes
     """)
     sys.exit()
 
